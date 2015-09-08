@@ -92,7 +92,11 @@ font-family: Roboto;
 
 .nav__list {
   width: 100%;
+<<<<<<< HEAD
   padding: 0px;
+=======
+  padding: 10px;
+>>>>>>> 4cf79187471a8b1491907c7ff3ea32f70c86e780
   margin: 0;
 }
 
@@ -121,13 +125,21 @@ font-family: Roboto;
   width: 24%;
   text-align: center;
   line-height: 24px;
+<<<<<<< HEAD
   padding: 1px;
+=======
+  padding: 5px;
+>>>>>>> 4cf79187471a8b1491907c7ff3ea32f70c86e780
   text-transform: uppercase;
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
+<<<<<<< HEAD
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+=======
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0);
+>>>>>>> 4cf79187471a8b1491907c7ff3ea32f70c86e780
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
@@ -301,6 +313,7 @@ float: left;
 		width: 100%; 
 	}
 }
+<<<<<<< HEAD
 .wrap {
 
 	height: auto;
@@ -370,5 +383,13 @@ footer {
   background-color:#3D6789;
   color:#FFFFFF;
   overflow:hidden;
+=======
+footer {
+  border-top: 1px solid #E0E0E0;
+  padding: 1em;
+  width: 100%;
+  background-color:#3D6789;
+  color:#FFFFFF;
+>>>>>>> 4cf79187471a8b1491907c7ff3ea32f70c86e780
   
 }
